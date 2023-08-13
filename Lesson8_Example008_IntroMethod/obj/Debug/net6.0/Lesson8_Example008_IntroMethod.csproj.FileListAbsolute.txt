@@ -1,0 +1,15 @@
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\bin\Debug\net6.0\Lesson8_Example008_IntroMethod.exe
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\bin\Debug\net6.0\Lesson8_Example008_IntroMethod.deps.json
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\bin\Debug\net6.0\Lesson8_Example008_IntroMethod.runtimeconfig.json
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\bin\Debug\net6.0\Lesson8_Example008_IntroMethod.dll
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\bin\Debug\net6.0\Lesson8_Example008_IntroMethod.pdb
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.csproj.AssemblyReference.cache
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.AssemblyInfoInputs.cache
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.AssemblyInfo.cs
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.csproj.CoreCompileInputs.cache
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.dll
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\refint\Lesson8_Example008_IntroMethod.dll
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.pdb
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\Lesson8_Example008_IntroMethod.genruntimeconfig.cache
+C:\Users\Alex & Lena\Documents\Обучение\Lesson8_(2_for_C#)\Lesson8_Example008_IntroMethod\obj\Debug\net6.0\ref\Lesson8_Example008_IntroMethod.dll
