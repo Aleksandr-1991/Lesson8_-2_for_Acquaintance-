@@ -1,0 +1,15 @@
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.csproj.AssemblyReference.cache
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.AssemblyInfoInputs.cache
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.AssemblyInfo.cs
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.csproj.CoreCompileInputs.cache
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\bin\Debug\net6.0\Lesson8_Example010.exe
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\bin\Debug\net6.0\Lesson8_Example010.deps.json
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\bin\Debug\net6.0\Lesson8_Example010.runtimeconfig.json
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\bin\Debug\net6.0\Lesson8_Example010.dll
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\bin\Debug\net6.0\Lesson8_Example010.pdb
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.dll
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\refint\Lesson8_Example010.dll
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.pdb
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\Lesson8_Example010.genruntimeconfig.cache
+C:\Обуч!\Lesson8_(2_for_C#)\Lesson8_Example010\obj\Debug\net6.0\ref\Lesson8_Example010.dll
