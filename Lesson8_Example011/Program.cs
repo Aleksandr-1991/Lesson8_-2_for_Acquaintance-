@@ -26,11 +26,11 @@ int IndexOf(int[] collection, int find)
     while (index < count)
     {
         if (collection[index] == find)
-        {
+            {
             position = index;
             break;
             }
-            index++;
+        index++;
     }
     return position;
 }
