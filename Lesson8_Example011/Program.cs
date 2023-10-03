@@ -14,9 +14,10 @@ void PrintArray(int[] col)
     int position = 0;
     while (position < count)
     {
-        Console.WriteLine(col[position]);
+        Console.Write(col[position]);
         position++;
     }
+    Console.WriteLine();
 }
 int IndexOf(int[] collection, int find)
 {
@@ -34,9 +35,7 @@ int IndexOf(int[] collection, int find)
     }
     return position;
 }
-int[] array = new int[10];
+int[] array = new int[10];  // Запомнить!
 FillArray(array);
 PrintArray(array);
-Console.WriteLine();
-int pos = IndexOf(array, 4);
-Console.WriteLine(pos);
+Console.WriteLine(IndexOf(array, 5));
