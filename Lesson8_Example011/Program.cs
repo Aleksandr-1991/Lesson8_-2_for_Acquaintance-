@@ -1,36 +1,33 @@
 ﻿void FillArray(int[] collection)
 {
-    int length = collection.Length;
     int index = 0;
-    while (index < length)
+    while (index < collection.Length)
     {
-        collection[index] = new Random ().Next(1, 10);
+        collection[index] = new Random().Next(1, 10);
         index++;
     }
 }
 void PrintArray(int[] col)
 {
-    int count = col.Length;
     int position = 0;
-    while (position < count)
+    while (position < col.Length)
     {
-        Console.Write(col[position]);
+        Console.Write(col[position] + ", ");
         position++;
     }
     Console.WriteLine();
 }
 int IndexOf(int[] collection, int find)
 {
-    int count = collection.Length;
     int index = 0;
-    int position = 0;
-    while (index < count)
+    int position = -1;
+    while (index < collection.Length)
     {
         if (collection[index] == find)
-            {
+        {
             position = index;
-            break;
-            }
+            break;  // чтобы получить только первое "вхождение".
+        }
         index++;
     }
     return position;
@@ -38,4 +35,4 @@ int IndexOf(int[] collection, int find)
 int[] array = new int[10];  // Запомнить!
 FillArray(array);
 PrintArray(array);
-Console.WriteLine(IndexOf(array, 5));
+Console.WriteLine("Индекс позиции, равной 5-ти:  " + IndexOf(array, 5));
