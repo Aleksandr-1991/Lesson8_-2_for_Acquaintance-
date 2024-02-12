@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Lesson8_Example011/1.0.0": {
+      "Lesson8_Example008_IntroMethod/1.0.0": {
         "runtime": {
-          "Lesson8_Example011.dll": {}
+          "Lesson8_Example008_IntroMethod.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Lesson8_Example011/1.0.0": {
+    "Lesson8_Example008_IntroMethod/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
